@@ -1,0 +1,20 @@
+//@theme "/usr/share/rofi/themes/DarkBlue.rasi"
+//@theme "/usr/share/rofi/themes/android_notification.rasi"
+//@theme "/usr/share/rofi/themes/iggy.rasi"
+//@theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
+
+configuration {
+    fixed-num-lines: false;
+
+    // largeur max 
+    width: 50%;
+
+    // icônes
+    show-icons: true;
+    sidebar-mode: false;
+}
+
+
+
+//@theme "/usr/share/rofi/themes/fancy.rasi"
+@theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"

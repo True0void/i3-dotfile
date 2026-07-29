@@ -1,0 +1,26 @@
+set $mod Mod4
+font pango:monospace 8
+
+include keybinds.conf
+
+### Autostart
+exec --no-startup-id dex --autostart --environment i3
+exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
+exec --no-startup-id nm-applet
+
+exec_always --no-startup-id ~/.config/polybar/launch.sh
+exec_always --no-startup-id feh --bg-scale ~/.config/i3/Wallpapers/brut3.jpg
+exec_always --no-startup-id picom --config ~/.config/picom/picom.conf
+
+### Mouse
+floating_modifier $mod
+tiling_drag modifier titlebar
+
+### Appearance
+gaps inner 5
+gaps outer 5
+default_border pixel 0
+default_floating_border pixel 0
+
+### Rules
+#for_window [class="YourApp"] floating enable, resize set 10 5

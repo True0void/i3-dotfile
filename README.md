@@ -1,9 +1,15 @@
 <h1 align="center">i3-dotfile</h1> 
 
 
-<img width="1440" height="900" alt="scren" src="https://github.com/user-attachments/assets/658b2847-a465-4033-963d-c5cb3b197c00" />
-<img width="1440" height="900" alt="screen" src="screen/scren.png">
+<p align="center">
+  <img src="screen/scren.png" width="800" alt="main screenshot"/>
+</p>
 
+<p align="center">
+  <img src="screen/rofi.png" width="260" alt="rofi"/>
+  <img src="screen/btop.png" width="260" alt="btop"/>
+  <img src="screen/rofi2.png" width="260" alt="rofi2"/>
+</p>
 
 <center>
 

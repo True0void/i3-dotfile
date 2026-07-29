@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="screen/rofi.png" width="260" alt="rofi"/>
+  <img src="screen/scren3.png" width="260" alt="rofi"/>
   <img src="screen/btop.png" width="260" alt="btop"/>
   <img src="screen/rofi2.png" width="260" alt="rofi2"/>
 </p>

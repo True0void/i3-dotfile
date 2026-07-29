@@ -1,4 +1,4 @@
-<h1 align="center">i3-dotfile</h1> 
+<h1 align="center">i3-dotfile 🧩</h1> 
 
 
 <p align="center">

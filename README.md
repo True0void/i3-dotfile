@@ -10,7 +10,7 @@
   <img src="screen/btop.png" width="260" alt="btop"/>
   <img src="screen/rofi2.png" width="260" alt="rofi2"/>
 </p>
-
+ 
 
 
 # 🐛 ~ Why this configuration? :

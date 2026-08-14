@@ -1,6 +1,6 @@
 <h1 align="center">i3-dotfile 🧩</h1> 
 
-
+ 
 <p align="center">
   <img src="screen/scren.png" width="800" alt="main screenshot"/>
 </p>
